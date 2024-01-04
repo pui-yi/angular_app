@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <br><br>
 
 ## Objective:
-Simple application to use the basic features of Angular. This is a nuts store web app containing a home page, a product page, and a contact page. The products information comes from a json file. Here is the <a href="">URL</a> to my web application.
+Simple application to use the basic features of Angular. This is a nuts store web app containing a home page, a product page, and a contact page. The product information comes from a JSON file. Here is the <a href="gigantic-haircut.surge.sh">URL</a> to my web application.
 <br><br>
 
 ## Development server
@@ -32,3 +32,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Screenshot:
+<img width="620" alt="Screenshot of the Home page" src="https://github.com/pui-yi/angular_app/assets/153875169/6937585f-2205-484f-bda3-7468a9fbc627">
+<img width="620" alt="Screenshot of the Products page" src="https://github.com/pui-yi/angular_app/assets/153875169/f4c13527-649f-4797-b3d0-7b843401ec2f">
+<img width="620" alt="Screenshot of the Contact page" src="https://github.com/pui-yi/angular_app/assets/153875169/4e20e486-78fa-4c50-b21b-a228c3e15d67">
