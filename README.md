@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <br><br>
 
 ## Objective:
-Simple application to use the basic features of Angular. This is a nuts store web app containing a home page, a product page, and a contact page. The product information comes from a JSON file. Here is the <a href="gigantic-haircut.surge.sh">URL</a> to my web application.
+Simple application to use the basic features of Angular. This is a nuts store web app containing a home page, a product page, and a contact page. The product information comes from a JSON file. Here is the <a href="https://gigantic-haircut.surge.sh">URL</a> to my web application.
 <br><br>
 
 ## Development server
