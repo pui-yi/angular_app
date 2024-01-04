@@ -1,0 +1,10 @@
+<main>
+	<h1>Products</h1>
+
+	<section *ngFor="let product of Products">
+		<h3>{{product.shortdesc}}</h3>
+	    <p><em>Description:</em> {{product.longdesc}}</p>
+		<p><em>Unit size:</em> {{product.unitsize}}</p>
+		<p><em>Price:</em> {{product.unitprice}}</p>
+	</section>
+</main>

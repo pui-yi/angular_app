@@ -1,0 +1,42 @@
+header {
+	background-color: #ddc0ac;   
+}
+
+header .logo {
+	font-weight: bold;
+}
+
+header nav {
+	justify-self: right;
+}
+
+nav ul {
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	padding: 1.4em;
+	font-size: 0.9em;
+	text-transform: uppercase;
+}
+
+nav ul li a:hover {
+	background-color: #5b1ba3;  /* darker purple */
+}
+
+.darkpurple { 
+    color: #7000a0; 
+} 
+* {
+    color: #a67d7b;
+}
+
+.bigfont {
+	font-size: 3.5rem;
+}

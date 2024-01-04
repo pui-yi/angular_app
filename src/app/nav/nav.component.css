@@ -1,0 +1,33 @@
+header {
+	background-color: #a67d7b;   
+}
+
+header .logo {
+	font-weight: bold;
+}
+
+header nav {
+	justify-self: right;
+}
+
+nav ul {
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	padding: 1.4em;
+	font-size: 0.9em;
+	text-transform: uppercase;
+}
+
+nav ul li a:hover {
+	background-color: #f6f0e5;  
+	color: #a67d7b;
+	font-weight: bold;
+}
